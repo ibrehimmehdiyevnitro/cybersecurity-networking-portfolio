@@ -53,11 +53,11 @@ My goal is to strengthen my technical skills and gain practical experience in th
 
 And these skills will increase in future 
 
-## Education & Certifications
-
-ASOIU - Azerbaijan State Oil and Industrial University 
+## Education & Certifications and exams 
+I have achieved 623 points over 700 in entrance exams that held by DİM 
+BACHELOR's degree : ASOIU - Azerbaijan State Oil and Industrial University 
 Profession : Information Security (2025-2029)
-
+SABAH Faculity 
 ## Contact
 
   **GitHub:** https://github.com/ibrehimmehdiyevnitro
